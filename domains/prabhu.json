@@ -1,0 +1,11 @@
+{
+    "description": "a personal portfolio site",
+    "repo": "https://github.com/ls-prabhu/ls-prabhu.github.io",
+    "owner": {
+        "username": "ls-prabhu",
+        "email": "[prabhuls2005@gmail.com]"
+    },
+    "records": {
+        "CNAME": "ls-prabhu.github.io"
+    }
+}
